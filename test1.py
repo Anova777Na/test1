@@ -7,5 +7,5 @@ print(computer_languages)
 computer_languages.remove('java')
 print(computer_languages)
 computer_languages.clear()
-print(computer_languages)
+
  
